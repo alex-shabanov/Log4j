@@ -33,5 +33,5 @@ log4j.appender.dest1.File=F:\\temp\\SchoolWork\\Logs.log to whatever file path n
 =========================
 ###Image of Logs.log output file.
 
-![alt tag](https://github.com/alex-shabanov/Log4j/tree/master/Screenshots/log4jfileimage.png)
+![alt tag](https://github.com/alex-shabanov/Log4j/blob/master/Screenshots/log4jfileimage.png)
 
